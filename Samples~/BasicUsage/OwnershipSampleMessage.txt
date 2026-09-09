@@ -1,0 +1,1 @@
+The generated Message property exposes this TextAsset while its handle stays owned by the sample component.

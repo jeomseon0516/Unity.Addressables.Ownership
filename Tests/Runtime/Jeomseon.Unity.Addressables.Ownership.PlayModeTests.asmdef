@@ -1,0 +1,12 @@
+{
+  "name": "Jeomseon.Unity.Addressables.Ownership.PlayModeTests",
+  "rootNamespace": "Jeomseon.Unity.Addressables.Ownership.Tests",
+  "references": [
+    "Jeomseon.Unity.Addressables.Ownership",
+    "Jeomseon.Unity.Addressables",
+    "Jeomseon.Unity.Ownership"
+  ],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false,
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"]
+}

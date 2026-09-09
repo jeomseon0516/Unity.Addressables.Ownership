@@ -1,0 +1,12 @@
+{
+  "name": "Jeomseon.Unity.Addressables.Ownership.Tests",
+  "rootNamespace": "Jeomseon.Unity.Addressables.Ownership.Tests",
+  "references": [
+    "Jeomseon.Unity.Addressables.Ownership",
+    "Jeomseon.Unity.Addressables",
+    "Jeomseon.Unity.Ownership"
+  ],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
