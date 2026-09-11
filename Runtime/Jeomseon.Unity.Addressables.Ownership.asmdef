@@ -1,0 +1,7 @@
+{
+  "name": "Jeomseon.Unity.Addressables.Ownership",
+  "rootNamespace": "Jeomseon.Unity.Addressables.Ownership",
+  "references": ["Jeomseon.Unity.Addressables", "Jeomseon.Unity.Ownership"],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

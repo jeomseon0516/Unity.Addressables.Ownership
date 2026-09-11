@@ -1,0 +1,22 @@
+{
+  "name": "com.jeomseon.unity.addressables.ownership",
+  "version": "0.1.1",
+  "displayName": "Jeomseon Unity Addressables Ownership",
+  "description": "Generated owner-lifetime management for Jeomseon Unity Addressables assets and instances.",
+  "unity": "6000.6",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.jeomseon.unity.addressables": "0.4.0",
+    "com.jeomseon.unity.ownership": "0.1.0"
+  },
+  "author": { "name": "jeomseon0516", "url": "https://github.com/jeomseon0516" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/jeomseon0516/Unity.Addressables.Ownership.git" },
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Generated Addressables ownership with replacement and owner lifetime disposal.",
+      "path": "Samples~/BasicUsage"
+    }
+  ]
+}
